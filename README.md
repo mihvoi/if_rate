@@ -62,6 +62,6 @@ About:
   Mihai Voicu
   mihvoi@gmail.com
   
-  [Some philosophy](https://philosophymeans.blogspot.com/)
-
 </pre>
+
+  [Some philosophy](https://philosophymeans.blogspot.com/)
